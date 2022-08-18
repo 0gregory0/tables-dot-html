@@ -1,0 +1,15 @@
+#tags {
+    border: 2px solid black;
+}
+
+td, th {
+    border: 1px solid black;
+}
+
+.td1 {
+    border-top: none;
+}
+
+th {
+    border-bottom: none;
+}
